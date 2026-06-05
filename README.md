@@ -1,4 +1,4 @@
-# eslint-disable-typescript-snippets
+# typescript-eslint-disable-snippets
 
 ## Credit
 

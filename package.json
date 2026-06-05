@@ -1,8 +1,8 @@
 {
-  "name": "eslint-disable-typescript-snippets",
-  "displayName": "eslint-disable-typescript-snippets",
+  "name": "typescript-eslint-disable-snippets",
+  "displayName": "typescript-eslint-disable-snippets",
   "description": "Snippets for disabling @typescript-eslint rules",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "publisher": "ArthurNeuman",
   "author": "exoRift",
   "engines": {
@@ -11,7 +11,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/exoRift/eslint-disable-typescript-snippets"
+    "url": "https://github.com/exoRift/typescript-eslint-disable-snippets"
   },
   "categories": [
     "Snippets"
